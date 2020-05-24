@@ -1,0 +1,18 @@
+h1{
+   color: lightgoldenrodyellow; 
+}
+      *{
+        border: solid;
+    }
+ .info{
+     color: tomato;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    background-color: darkred;
+ } 
+  .header{
+      background-color: goldenrod;
+  }  
+  
+ 
