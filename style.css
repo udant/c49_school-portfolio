@@ -4,15 +4,35 @@ h1{
       *{
         border: solid;
     }
- .info{
-     color: tomato;
-    flex-wrap: wrap;
-    align-content: stretch;
-    justify-content: space-evenly;
-    background-color: darkred;
- } 
   .header{
-      background-color: goldenrod;
+      background-color: red
   }  
-  
- 
+  .text{
+    background-color: orangered;
+ }
+ .mango{
+    background-color: yellow;
+}
+.info{
+    color: lightgoldenrodyellow;
+   flex-wrap: wrap;
+   align-content: stretch;
+   justify-content: space-evenly;
+   background-color: greenyellow;
+} 
+.linktext{
+    background-color: lightblue;
+}
+  .link{
+    background-color: blue
+  }
+  a{
+    color: gray; 
+  }
+ .purple{
+    color: lightgoldenrodyellow; 
+    background-color: purple;
+ }
+
+
+
