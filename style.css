@@ -2,7 +2,9 @@ h1{
    color: lightgoldenrodyellow; 
 }
       *{
-        border: solid;
+       /* border: solid;*/
+        margin: 20px;
+        padding: 20px;
     }
   .header{
       background-color: red
@@ -23,9 +25,18 @@ h1{
 .linktext{
     background-color: lightblue;
 }
-  .link{
+.link:hover a {
+  opacity: 1;
+}
+.link{
     background-color: blue
-  }
+    }
+ .jill {
+   color: maroon;
+ }   
+.link a{
+  opacity: 0;
+}    
   a{
     color: gray; 
   }
@@ -33,6 +44,4 @@ h1{
     color: lightgoldenrodyellow; 
     background-color: purple;
  }
-
-
-
+ 
