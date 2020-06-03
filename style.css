@@ -7,41 +7,41 @@ h1{
         padding: 20px;
     }
   .header{
-      background-color: red
+      background-color: #ff0000
   }  
   .text{
-    background-color: orangered;
+    background-color: #ff4500;
  }
  .mango{
-    background-color: yellow;
+    background-color: #ffff00;
 }
 .info{
-    color: lightgoldenrodyellow;
+    color: #fafad2;
    flex-wrap: wrap;
    align-content: stretch;
    justify-content: space-evenly;
-   background-color: greenyellow;
+   background-color: #adff2f;
 } 
 .linktext{
-    background-color: lightblue;
+    background-color: #add8e6;
 }
 .link:hover a {
   opacity: 1;
 }
 .link{
-    background-color: blue
+    background-color: #0000ff
     }
  .jill {
-   color: maroon;
+   color: #800000;
  }   
 .link a{
   opacity: 0;
 }    
   a{
-    color: gray; 
+    color: #808080; 
   }
  .purple{
-    color: lightgoldenrodyellow; 
-    background-color: purple;
+    color: #fafad2; 
+    background-color: #800080;
  }
  
